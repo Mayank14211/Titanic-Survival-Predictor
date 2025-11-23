@@ -1,0 +1,51 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,FamilySize,IsAlone,Survival_Probability,PredictedSurvived,PredictedLabel
+1,0,3,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,,S,2,0,0.10185185185185185,0,Did not survive
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,C,2,0,1.0,1,Survived
+3,1,3,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,,S,1,1,0.3050847457627119,0,Did not survive
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,C123,S,2,0,1.0,1,Survived
+5,0,3,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,,S,1,1,0.10185185185185185,0,Did not survive
+6,0,3,"Moran, Mr. James",male,,0,0,330877,8.4583,,Q,1,1,0.10185185185185185,0,Did not survive
+7,0,1,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,S,1,1,0.4189189189189189,0,Did not survive
+8,0,3,"Palsson, Master. Gosta Leonard",male,2.0,3,1,349909,21.075,,S,5,0,0.6666666666666666,1,Survived
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,347742,11.1333,,S,3,0,0.3050847457627119,0,Did not survive
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,30.0708,,C,2,0,1.0,1,Survived
+11,1,3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,G6,S,3,0,0.8333333333333334,1,Survived
+12,1,1,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,26.55,C103,S,1,1,0.6,1,Survived
+13,0,3,"Saundercock, Mr. William Henry",male,20.0,0,0,A/5. 2151,8.05,,S,1,1,0.10185185185185185,0,Did not survive
+14,0,3,"Andersson, Mr. Anders Johan",male,39.0,1,5,347082,31.275,,S,7,0,0.10185185185185185,0,Did not survive
+15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,350406,7.8542,,S,1,1,0.5833333333333334,1,Survived
+16,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,16.0,,S,1,1,0.6,1,Survived
+17,0,3,"Rice, Master. Eugene",male,2.0,4,1,382652,29.125,,Q,6,0,0.6666666666666666,1,Survived
+18,1,2,"Williams, Mr. Charles Eugene",male,,0,0,244373,13.0,,S,1,1,0.10185185185185185,0,Did not survive
+19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,,S,2,0,0.3050847457627119,0,Did not survive
+20,1,3,"Masselmani, Mrs. Fatima",female,,0,0,2649,7.225,,C,1,1,0.8636363636363636,1,Survived
+21,0,2,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,26.0,,S,1,1,0.10185185185185185,0,Did not survive
+22,1,2,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,D56,S,1,1,0.10185185185185185,0,Did not survive
+23,1,3,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,,Q,1,1,0.3050847457627119,0,Did not survive
+24,1,1,"Sloper, Mr. William Thompson",male,28.0,0,0,113788,35.5,A6,S,1,1,0.4189189189189189,0,Did not survive
+25,0,3,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,21.075,,S,5,0,0.3050847457627119,0,Did not survive
+26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,,S,7,0,0.3050847457627119,0,Did not survive
+27,0,3,"Emir, Mr. Farred Chehab",male,,0,0,2631,7.225,,C,1,1,0.10185185185185185,0,Did not survive
+28,0,1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,263.0,C23 C25 C27,S,6,0,0.4189189189189189,0,Did not survive
+29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,,0,0,330959,7.8792,,Q,1,1,0.8636363636363636,1,Survived
+30,0,3,"Todoroff, Mr. Lalio",male,,0,0,349216,7.8958,,S,1,1,0.10185185185185185,0,Did not survive
+31,0,1,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,,C,1,1,0.4189189189189189,0,Did not survive
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1,0,PC 17569,146.5208,B78,C,2,0,1.0,1,Survived
+33,1,3,"Glynn, Miss. Mary Agatha",female,,0,0,335677,7.75,,Q,1,1,0.8636363636363636,1,Survived
+34,0,2,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,10.5,,S,1,1,0.10185185185185185,0,Did not survive
+35,0,1,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,82.1708,,C,2,0,0.4189189189189189,0,Did not survive
+36,0,1,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,113789,52.0,,S,2,0,0.4189189189189189,0,Did not survive
+37,1,3,"Mamee, Mr. Hanna",male,,0,0,2677,7.2292,,C,1,1,0.10185185185185185,0,Did not survive
+38,0,3,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,8.05,,S,1,1,0.10185185185185185,0,Did not survive
+39,0,3,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,345764,18.0,,S,3,0,0.3050847457627119,0,Did not survive
+40,1,3,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,,C,2,0,0.3050847457627119,0,Did not survive
+41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9.475,,S,2,0,0.3050847457627119,0,Did not survive
+42,0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,11668,21.0,,S,2,0,0.9111111111111111,1,Survived
+43,0,3,"Kraeff, Mr. Theodor",male,,0,0,349253,7.8958,,C,1,1,0.10185185185185185,0,Did not survive
+44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,,C,4,0,1.0,1,Survived
+45,1,3,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,,Q,1,1,0.8636363636363636,1,Survived
+46,0,3,"Rogers, Mr. William John",male,,0,0,S.C./A.4. 23567,8.05,,S,1,1,0.10185185185185185,0,Did not survive
+47,0,3,"Lennon, Mr. Denis",male,,1,0,370371,15.5,,Q,2,0,0.10185185185185185,0,Did not survive
+48,1,3,"O'Driscoll, Miss. Bridget",female,,0,0,14311,7.75,,Q,1,1,0.8636363636363636,1,Survived
+49,0,3,"Samaan, Mr. Youssef",male,,2,0,2662,21.6792,,C,3,0,0.10185185185185185,0,Did not survive
+50,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,349237,17.8,,S,2,0,0.3050847457627119,0,Did not survive
